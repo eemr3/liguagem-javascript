@@ -11,7 +11,7 @@ ___
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/43c33814ccb981d5-js-fatorial.png" width="1200">
+<img src="https://raw.githubusercontent.com/eemr3/imagens/master/js-fatorial.png">
 
 ## :information_source: Sobre
 
